@@ -1,4 +1,4 @@
-This repository contains R code and measured data needed for figure and data analyses presented in Dubois, Allanic et al. bioRxiv preprint.
+This repository contains R code and measured data needed for figure and data analyses presented in Dubois, Allanic et al. 2019 ("https://www.biorxiv.org/content/10.1101/530956v1").
 
 These scripts are distributed in the hope that they will be useful,
 but WITHOUT ANY WARRANTY.
