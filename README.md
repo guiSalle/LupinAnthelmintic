@@ -1,4 +1,4 @@
-This repository contains R code and measured data needed for figure and data analyses presented in Dubois, Allanic et al. 2019 (https://www.biorxiv.org/content/10.1101/530956v1). Please note that electrophysiological data measure on X. laevis oocytes were handled with standalone software. Any query regarding these data should be sent directly to Dr. Claude Charvet.
+This repository contains R code and measured data needed for figure and data analyses presented in Dubois, Allanic et al. 2019 (https://www.biorxiv.org/content/10.1101/530956v1). Please note that electrophysiological data measure on X. laevis oocytes were handled with standalone software. Any query regarding these data should be sent directly to Dr. Claude Charvet (https://www6.val-de-loire.inra.fr/infectiologie-santepublique_eng/Staff-members/Parasitology-scientific-staff/Charvet).
 
 These scripts are distributed in the hope that they will be useful,
 but WITHOUT ANY WARRANTY.
