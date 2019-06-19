@@ -1,4 +1,4 @@
-This repository contains R code and measured data needed for figure and data analyses presented in Dubois, Allanic et al. 2019 (https://www.biorxiv.org/content/10.1101/530956v1). 
+This repository contains R code used for figure and data analyses presented in Dubois, Allanic et al. 2019 (https://www.biorxiv.org/content/10.1101/530956v1). This study has now been published in Scientific Reports (10.1038/s41598-019-45654-6).
 
 We are currently working on some of these data for further publication. Raw data should be made available by the end of 2019 under this repository or under figshare with appropriate doi. Should you be interested in some of these data, please feel free to send a request to access some of this data.
 
